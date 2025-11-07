@@ -53,8 +53,8 @@ endfunction()
 ## nlopt
 function(triwild_download_nlopt)
     triwild_download_project(nlopt
-        GIT_REPOSITORY https://github.com/stevengj/nlopt
-        GIT_TAG        37b74a8c2037eea5dc72fea7eeb9b850fa978913
+        GIT_REPOSITORY https://github.com/wayhoowang/nlopt
+        GIT_TAG        c031d310a600ab87e1b29307b40529c7d08e37e0
     )
 endfunction()
 
